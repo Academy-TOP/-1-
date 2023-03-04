@@ -4,7 +4,9 @@ name = 'Добрый день!'
 list.append(name)
 list.insert(0, 'Привет')
 list.reverse()
-print(list[0])
+print(list)
+list.pop(1)
+print(list)
 
 string = "Привет, Мир!"
 print(string)
@@ -51,6 +53,3 @@ print(str_summ.rindex('т'))
 print(str_summ.replace('Мир', 'Иван'))
 
 print(str_summ.count('р'))
-
-
-енгнпгпршлрощшнг
