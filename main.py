@@ -6,7 +6,12 @@ list.insert(0, 'Привет')
 list.reverse()
 print(list)
 list.pop(1)
+list.remove('Привет')
+list[0] = 100
 print(list)
+
+list_1 = [1,2,3]
+list_2 = [4,5,6]
 
 string = "Привет, Мир!"
 print(string)
