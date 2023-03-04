@@ -22,6 +22,7 @@ print(list_3)
 
 print(max(list_1))
 print(min(list_1))
+print(sum(list_2))
 
 string = "Привет, Мир!"
 print(string)
