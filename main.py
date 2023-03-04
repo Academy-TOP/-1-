@@ -43,3 +43,6 @@ print(str_summ.rindex('т'))
 print(str_summ.replace('Мир', 'Иван'))
 
 print(str_summ.count('р'))
+
+
+енгнпгпршлрощшнг
