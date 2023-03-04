@@ -1,3 +1,11 @@
+list = []
+list.append(3)
+name = 'Добрый день!'
+list.append(name)
+list.insert(0, 'Привет')
+list.reverse()
+print(list[0])
+
 string = "Привет, Мир!"
 print(string)
 string_2 = " -  Здравствуй!"
